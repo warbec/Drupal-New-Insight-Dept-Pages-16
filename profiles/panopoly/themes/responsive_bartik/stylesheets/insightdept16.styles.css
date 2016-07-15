@@ -1,0 +1,346 @@
+/* line 15, ../sass/insightdept16.styles.scss */
+.l-header {
+  background: linear-gradient(to bottom, #8b1e41 0%, #6a102e 100%);
+}
+
+/* line 19, ../sass/insightdept16.styles.scss */
+article .l-header {
+  background: #fff !important;
+}
+
+/* line 23, ../sass/insightdept16.styles.scss */
+.l-content h1 {
+  text-align: center;
+  font-weight: 200 !important;
+  font-weight: lighter !important;
+}
+
+/* line 28, ../sass/insightdept16.styles.scss */
+.l-main .l-content {
+  margin-top: -3em !important;
+}
+
+/* line 31, ../sass/insightdept16.styles.scss */
+body {
+  padding: 0 !important;
+  margin: 0 !important;
+  font-family: "Helvetica Neue",helvetica,"Segoe UI",segoe,"Ubuntu","Droid Sans","Arial",sans-serif;
+}
+
+/* line 37, ../sass/insightdept16.styles.scss */
+.l-header, .l-footer {
+  max-width: 100% !important;
+  padding: 0.8em;
+}
+
+/* line 42, ../sass/insightdept16.styles.scss */
+.l-main {
+  padding: 2em;
+}
+
+/* line 45, ../sass/insightdept16.styles.scss */
+.deptWord {
+  color: #fff;
+  font-size: 0.3em !important;
+}
+
+/* line 49, ../sass/insightdept16.styles.scss */
+.contentAdminWord {
+  color: #aaa;
+  font-size: 0.3em !important;
+  padding: 0.6em;
+}
+
+/* line 54, ../sass/insightdept16.styles.scss */
+.site-name {
+  color: #fff !important;
+  font-size: 2.5em;
+  font-weight: 200 !important;
+  font-weight: lighter !important;
+  margin-left: 1em;
+}
+
+/* line 61, ../sass/insightdept16.styles.scss */
+.site-name a, .site-name a:visited, .site-name a:link {
+  color: #fff !important;
+  text-decoration: none;
+}
+
+/* line 65, ../sass/insightdept16.styles.scss */
+.tabs {
+  margin-left: 2.5em;
+}
+
+/* line 68, ../sass/insightdept16.styles.scss */
+.storySlider {
+  position: relative;
+}
+
+/* line 71, ../sass/insightdept16.styles.scss */
+.storySliderTitle {
+  text-align: center;
+  font-weight: 300 !important;
+  font-weight: lighter !important;
+  font-size: 1.4em;
+}
+
+/* line 77, ../sass/insightdept16.styles.scss */
+.storySliderBody {
+  text-align: justify;
+}
+
+/* line 81, ../sass/insightdept16.styles.scss */
+#navbar-bar, #navbar-item--2-tray, #navbar-item--3-tray, #navbar-item--4-tray {
+  opacity: 0.9;
+  filter: alpha(opacity=90);
+}
+
+/* line 86, ../sass/insightdept16.styles.scss */
+#navbar-link-admin-content, #navbar-link-admin-structure, #navbar-link-admin-config, #navbar-link-admin-help {
+  display: none !important;
+}
+
+/**
+ * @file
+ * Replaces Drupal core's system.menus.css.
+ */
+/* line 98, ../sass/insightdept16.styles.scss */
+[dir] .primary, [dir]
+.secondary {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+/* line 103, ../sass/insightdept16.styles.scss */
+.primary,
+.primary li,
+.secondary,
+.secondary li {
+  list-style-type: none;
+}
+
+/* line 109, ../sass/insightdept16.styles.scss */
+.primary li,
+.secondary li {
+  display: inline-block;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* line 115, ../sass/insightdept16.styles.scss */
+[dir="ltr"] .primary li, [dir="ltr"]
+.secondary li {
+  margin-right: 0.70711em;
+}
+
+/* line 119, ../sass/insightdept16.styles.scss */
+[dir="ltr"] .primary li:last-child, [dir="ltr"]
+.secondary li:last-child {
+  margin-right: 0;
+}
+
+/* line 123, ../sass/insightdept16.styles.scss */
+[dir="rtl"] .primary li, [dir="rtl"]
+.secondary li {
+  margin-left: 0.70711em;
+}
+
+/* line 127, ../sass/insightdept16.styles.scss */
+[dir="rtl"] .primary li:last-child, [dir="rtl"]
+.secondary li:last-child {
+  margin-left: 0;
+}
+
+/* line 131, ../sass/insightdept16.styles.scss */
+.primary a,
+.secondary a {
+  display: inline-block;
+  text-decoration: none;
+}
+
+/* line 136, ../sass/insightdept16.styles.scss */
+.primary a, .primary a:link, .primary a:visited,
+.secondary a,
+.secondary a:link,
+.secondary a:visited {
+  color: #999999;
+}
+
+/* line 142, ../sass/insightdept16.styles.scss */
+.primary a:active, .primary a.active, .primary a:hover,
+.secondary a:active,
+.secondary a.active,
+.secondary a:hover {
+  color: #E2DDDB;
+}
+
+/* line 148, ../sass/insightdept16.styles.scss */
+.primary a:hover,
+.secondary a:hover {
+  text-decoration: none;
+}
+
+/* line 153, ../sass/insightdept16.styles.scss */
+.primary li {
+  border-bottom: 0.35355em solid transparent;
+  -webkit-transition: border-color 0.2s;
+  -moz-transition: border-color 0.2s;
+  -o-transition: border-color 0.2s;
+  transition: border-color 0.2s;
+}
+
+/* line 161, ../sass/insightdept16.styles.scss */
+.tabs a.active, .tabs a {
+  background-color: #6D1130 !important;
+}
+
+/* line 164, ../sass/insightdept16.styles.scss */
+.primary > [class*="active"],
+.primary > :hover {
+  border-color: #E2DDDB;
+}
+
+/* line 168, ../sass/insightdept16.styles.scss */
+.primary > [class*="active"] a,
+.primary > :hover a {
+  color: #E2DDDB;
+}
+
+/* line 172, ../sass/insightdept16.styles.scss */
+.primary a {
+  padding: 0.35355em 0;
+  font-size: 1em;
+  font-weight: 200;
+}
+
+/* line 178, ../sass/insightdept16.styles.scss */
+.secondary {
+  margin-top: -1.06066em;
+  padding-top: 0.70711em;
+}
+
+/* line 182, ../sass/insightdept16.styles.scss */
+.secondary a {
+  font-weight: 700;
+}
+
+/**
+ * Markup generated by theme_menu_tree().
+ */
+/* line 189, ../sass/insightdept16.styles.scss */
+.menu {
+  border: none;
+  list-style: none;
+  text-align: left;
+  /* LTR */
+}
+
+/* line 195, ../sass/insightdept16.styles.scss */
+.menu .expanded {
+  list-style-image: url("../images/menu-expanded.png?1399128626");
+  list-style-type: circle;
+}
+
+/* line 199, ../sass/insightdept16.styles.scss */
+.menu .collapsed {
+  list-style-image: url("../images/menu-collapsed.png?1399128626");
+  /* LTR */
+  list-style-type: disc;
+}
+
+/* line 204, ../sass/insightdept16.styles.scss */
+.menu .leaf {
+  list-style-image: url("../images/menu-leaf.png?1399128626");
+  list-style-type: square;
+}
+
+/* line 208, ../sass/insightdept16.styles.scss */
+.menu .active {
+  color: #E2DDDB;
+}
+
+/*
+td.menu-disabled {
+  background: #ccc;
+}
+*/
+/**
+ * Markup generated by theme_links().
+ */
+/* line 221, ../sass/insightdept16.styles.scss */
+.inline {
+  display: inline-block;
+  margin: 0;
+}
+
+/* line 225, ../sass/insightdept16.styles.scss */
+[dir="ltr"] .inline, [dir="rtl"] .inline {
+  padding: 0;
+}
+
+/* line 228, ../sass/insightdept16.styles.scss */
+.inline li {
+  display: inline-block;
+  margin: 0;
+  list-style-type: none;
+}
+
+/* line 233, ../sass/insightdept16.styles.scss */
+[dir="ltr"] .inline li {
+  margin-right: 0.35355em;
+}
+
+/* line 236, ../sass/insightdept16.styles.scss */
+[dir="ltr"] .inline li:last-child {
+  margin-right: 0;
+}
+
+/* line 239, ../sass/insightdept16.styles.scss */
+[dir="rtl"] .inline li {
+  margin-left: 0.35355em;
+}
+
+/* line 242, ../sass/insightdept16.styles.scss */
+[dir="rtl"] .inline li:last-child {
+  margin-left: 0;
+}
+
+/**
+ * Markup generated by theme_breadcrumb().
+ */
+/* line 249, ../sass/insightdept16.styles.scss */
+.breadcrumb {
+  margin: 1.5em 0;
+}
+
+/**
+ * Markup generated by theme_menu_local_tasks().
+ */
+/* line 256, ../sass/insightdept16.styles.scss */
+#branding .primary,
+#branding .secondary {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* line 261, ../sass/insightdept16.styles.scss */
+#branding .primary a,
+#branding .secondary a {
+  color: #aaa;
+  /* todo: change in ux styleguide and remove here */
+}
+
+/* line 266, ../sass/insightdept16.styles.scss */
+#branding .primary > [class*="active"] a,
+#branding .primary > :hover a,
+#branding .secondary > [class*="active"] a,
+#branding .secondary > :hover a {
+  color: white;
+}
+
+/* line 272, ../sass/insightdept16.styles.scss */
+#branding .secondary {
+  margin: 0 -2.25em;
+  padding: 0.5em 2.25em;
+  background-color: #3d3d3d;
+}

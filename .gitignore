@@ -1,0 +1,9 @@
+# Ignore configuration files that may contain sensitive information.
+#sites/*/settings*.php
+
+# Ignore paths that contain user-generated content.
+sites/*/files
+sites/*/private
+sites/panopoly-7-x-1-37.dd
+profiles/panopoly/themes/responsive_bartik/.sass-cache
+profiles/panopoly/themes/responsive_bartik/node_modules

@@ -1,0 +1,33 @@
+.linklist {
+    font-family: 'museo_slab500';
+    font-size: 14px;
+    padding-top: 12px;
+}
+.linklist ul {
+  list-style-type:none;
+}
+.linklist li a:hover {
+  text-decoration: none !important;
+  border-top: 4px solid #761535;
+  border-bottom: 4px solid #761535;
+  padding: 6px 0;
+}
+.linklist li a {
+  margin-top: 40px;
+  padding: 24px;
+  text-align: center;
+  font-family: Raleway;
+  /* box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5); */
+  transition: 0.3s ease;
+  /* background: #3fa46a; */
+  color: #666;
+  font-size: 16px;
+  text-decoration: none;
+  /* border-top: 4px solid #3fa46a;
+  border-bottom: 4px solid #3fa46a; */
+  padding: 20px 0;
+  margin: 0 20px;
+}
+.linklist ul li {
+  margin-bottom: 1em !important;
+}

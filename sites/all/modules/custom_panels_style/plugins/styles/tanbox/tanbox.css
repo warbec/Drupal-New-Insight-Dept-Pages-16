@@ -1,0 +1,12 @@
+.tanbox {
+    font-family: 'museo_slab500';
+    font-size: 14px;
+    padding: 1.5em;
+    background-color: #DED7D1;
+    -moz-border-radius-bottomleft: 15px;
+    -webkit-border-bottom-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    -moz-border-radius-bottomright: 15px;
+    -webkit-border-bottom-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}

@@ -1,0 +1,9 @@
+.tanbox4corners {
+    font-family: 'museo_slab500';
+    font-size: 14px;
+    padding: 1.5em;
+    background-color: #DED7D1;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    border-radius: 15px;
+}
